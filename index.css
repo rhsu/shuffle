@@ -1,0 +1,36 @@
+.item {
+  height: 40px;
+  width: 120px;
+  margin: 10px;
+  border-radius: 5px;
+  border-color: #333;
+  color: #333;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange; 
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.indigo {
+  background-color: indigo;
+}
+
+.violet {
+  background-color: violet;
+}
